@@ -1,0 +1,81 @@
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\DemoPrsim_Login.exe
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\DemoPrsim_Login.pdb
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\CommonServiceLocator.dll
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\DryIoc.dll
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\Prism.dll
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\Prism.pdb
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\Prism.Wpf.dll
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\Prism.Wpf.pdb
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Le Cong\source\repos\BlankApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\App.g.cs
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login_MarkupCompile.cache
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login_MarkupCompile.lref
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\App.baml
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\Views\MainWindow.baml
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login.g.resources
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login.Properties.Resources.resources
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login.csproj.GenerateResource.cache
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login.csproj.CopyComplete
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login.exe
+C:\Users\Le Cong\source\repos\BlankApp1\obj\Debug\DemoPrsim_Login.pdb
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\DemoPrsim_Login.exe
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\DemoPrsim_Login.pdb
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\CommonServiceLocator.dll
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\DryIoc.dll
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\Prism.dll
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\Prism.pdb
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\Prism.Wpf.dll
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\Prism.Wpf.pdb
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\bin\Debug\System.ValueTuple.dll
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.csprojAssemblyReference.cache
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\App.g.cs
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login_MarkupCompile.cache
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login_MarkupCompile.lref
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\App.baml
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\Views\MainWindow.baml
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.g.resources
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.Properties.Resources.resources
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.csproj.GenerateResource.cache
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.csproj.CopyComplete
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.exe
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.pdb
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\Le Cong\source\repos\DemoPrsim_Login\obj\Debug\Views\LoginWindow.baml
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\DemoPrsim_Login.exe
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\DemoPrsim_Login.pdb
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\CommonServiceLocator.dll
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\DryIoc.dll
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\Prism.dll
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\Prism.pdb
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\Prism.DryIoc.Wpf.dll
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\Prism.DryIoc.Wpf.pdb
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\Prism.Wpf.dll
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\Prism.Wpf.pdb
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\bin\Debug\System.ValueTuple.dll
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.csprojAssemblyReference.cache
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\Views\LoginWindow.g.cs
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\Views\MainWindow.g.cs
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\App.g.cs
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login_MarkupCompile.cache
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login_MarkupCompile.lref
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\App.baml
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\Views\LoginWindow.baml
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\Views\MainWindow.baml
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.g.resources
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.Properties.Resources.resources
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.csproj.GenerateResource.cache
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.csproj.CopyComplete
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.exe
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\DemoPrsim_Login\obj\Debug\DemoPrsim_Login.pdb

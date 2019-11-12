@@ -6,6 +6,7 @@
     xmlns:local="clr-namespace:Demo_Tranning_WPF"
     xmlns:prism="http://prismlibrary.com/">
     <Application.Resources>
+        
         <ResourceDictionary>
             <Color x:Key="ColorPrimary">#007BFF</Color>
             <Color x:Key="ColorDanger">#DC3545</Color>

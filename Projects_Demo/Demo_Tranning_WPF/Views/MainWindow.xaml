@@ -1,4 +1,3 @@
-﻿
 <Window
     x:Class="Demo_Tranning_WPF.Views.MainWindow"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"

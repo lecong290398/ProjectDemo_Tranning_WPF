@@ -5104,25 +5104,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Le Cong\\.nuget\\packages\\": {},
+    "C:\\Users\\NguyenHai\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Le Cong\\source\\repos\\Demo_Tranning_WPF\\Demo_Tranning_WPF.csproj",
+      "projectUniqueName": "C:\\Users\\NguyenHai\\Documents\\GitKraken\\ProjectDemo_Tranning_WPF\\Projects_Demo\\Demo_Tranning_WPF\\Demo_Tranning_WPF.csproj",
       "projectName": "Demo_Tranning_WPF",
-      "projectPath": "C:\\Users\\Le Cong\\source\\repos\\Demo_Tranning_WPF\\Demo_Tranning_WPF.csproj",
-      "packagesPath": "C:\\Users\\Le Cong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Le Cong\\source\\repos\\Demo_Tranning_WPF\\obj\\",
+      "projectPath": "C:\\Users\\NguyenHai\\Documents\\GitKraken\\ProjectDemo_Tranning_WPF\\Projects_Demo\\Demo_Tranning_WPF\\Demo_Tranning_WPF.csproj",
+      "packagesPath": "C:\\Users\\NguyenHai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NguyenHai\\Documents\\GitKraken\\ProjectDemo_Tranning_WPF\\Projects_Demo\\Demo_Tranning_WPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Le Cong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NguyenHai\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -5131,7 +5131,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files (x86)\\Progress\\Telerik UI for ASP.NET Core R3 2019\\wrappers\\aspnetcore\\Binaries\\AspNet.Core": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
