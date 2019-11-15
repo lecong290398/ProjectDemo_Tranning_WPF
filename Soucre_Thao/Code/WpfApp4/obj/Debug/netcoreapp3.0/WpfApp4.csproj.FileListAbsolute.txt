@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\WpfApp4\bin\Debug\netcoreapp3.0\WpfApp4.exe
+C:\Users\HP\source\repos\WpfApp4\bin\Debug\netcoreapp3.0\WpfApp4.deps.json
+C:\Users\HP\source\repos\WpfApp4\bin\Debug\netcoreapp3.0\WpfApp4.runtimeconfig.json
+C:\Users\HP\source\repos\WpfApp4\bin\Debug\netcoreapp3.0\WpfApp4.runtimeconfig.dev.json
+C:\Users\HP\source\repos\WpfApp4\bin\Debug\netcoreapp3.0\WpfApp4.dll
+C:\Users\HP\source\repos\WpfApp4\bin\Debug\netcoreapp3.0\WpfApp4.pdb
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4_MarkupCompile.cache
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4_MarkupCompile.lref
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4.g.resources
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4.AssemblyInfo.cs
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4.dll
+C:\Users\HP\source\repos\WpfApp4\obj\Debug\netcoreapp3.0\WpfApp4.pdb

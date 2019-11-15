@@ -1,0 +1,19 @@
+﻿<Window
+    x:Class="BlankCoreApp2.Views.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:prism="http://prismlibrary.com/"
+    Title="{Binding Title}"
+    Width="640"
+    Height="420"
+    prism:ViewModelLocator.AutoWireViewModel="True">
+
+    <Grid>
+        <StackPanel Width="250">
+            <TextBlock HorizontalAlignment="Center">DEMO CANEXECUTE</TextBlock>
+            <ComboBox x:Name="comboMessages" ItemsSource="{Binding myMessages}" />
+            <Button Command="{Binding MessageBoxCommand}" CommandParameter="{Binding ElementName=comboMessages, Path=SelectedItem}">Message Box</Button>
+            <Button Command="{Binding ConsoleLogCommand}" CommandParameter="{Binding ElementName=comboMessages, Path=SelectedItem}">Console Log</Button>
+        </StackPanel>
+    </Grid>
+</Window>

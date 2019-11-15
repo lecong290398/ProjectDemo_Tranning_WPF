@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeOptions": {
     "tfm": "netcoreapp3.0",
@@ -14,4 +15,23 @@
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
     }
   }
+=======
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp3.0",
+    "framework": {
+      "name": "Microsoft.WindowsDesktop.App",
+      "version": "3.0.0"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\NguyenHai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NguyenHai\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+>>>>>>> 6bd3ac60693fa3c97fd919e5cf7cd6d179a7eb01
 }

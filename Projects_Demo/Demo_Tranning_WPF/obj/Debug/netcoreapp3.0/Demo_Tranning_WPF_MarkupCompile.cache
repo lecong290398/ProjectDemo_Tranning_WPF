@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Demo_Tranning_WPF
 
 
@@ -18,3 +19,25 @@ Views\LoginWindow.xaml;Views\MainWindow.xaml;
 
 False
 
+=======
+﻿Demo_Tranning_WPF
+
+
+winexe
+C#
+.cs
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\Demo_Tranning_WPF\obj\Debug\netcoreapp3.0\
+Demo_Tranning_WPF
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_0
+C:\Users\NguyenHai\Documents\GitKraken\ProjectDemo_Tranning_WPF\Projects_Demo\Demo_Tranning_WPF\App.xaml
+2-1011480540
+
+28-2391921
+2221917277888
+Views\LoginWindow.xaml;Views\MainWindow.xaml;
+
+False
+
+>>>>>>> 6bd3ac60693fa3c97fd919e5cf7cd6d179a7eb01

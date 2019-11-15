@@ -1,0 +1,38 @@
+﻿<Window
+    x:Class="DemoViewDatabase.Views.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:prism="http://prismlibrary.com/"
+    Title="{Binding Title}"
+    Width="525"
+    Height="350"
+    prism:ViewModelLocator.AutoWireViewModel="True">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Label
+            Grid.Row="0"
+            HorizontalAlignment="Center"
+            Content="Product and Category"
+            FontSize="30" />
+        <ListView
+            Name="listProduct"
+            Grid.Row="1"
+            Margin="10"
+            Background="AliceBlue"
+            ItemsSource="{Binding listProductBindProp, Mode=TwoWay}"
+            SelectedItem="{Binding ProductBindProp, Mode=TwoWay}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn DisplayMemberBinding="{Binding ProductID}" Header="ProductID" />
+                    <GridViewColumn DisplayMemberBinding="{Binding ProductName}" Header="ProductName" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Price}" Header="Price" />
+                    <GridViewColumn DisplayMemberBinding="{Binding CategoryName}" Header="CategoryName" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
